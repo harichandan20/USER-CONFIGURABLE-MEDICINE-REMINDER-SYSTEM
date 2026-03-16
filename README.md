@@ -207,7 +207,7 @@ USER-CONFIGURABLE-MEDICINE-REMINDER-SYSTEM
 │
 ├── images
 │   ├── block_diagram.png
-│   ├── circuit_diagram.png
+│   ├── circuit_diagram1.png
 │   ├── menu_display.png
 │   ├── date_edit.png
 │   ├── add_slot.png
@@ -231,4 +231,8 @@ USER-CONFIGURABLE-MEDICINE-REMINDER-SYSTEM
 # 👨‍💻 Author
 
 **Hari Chandan**
+
+🔧 Developed and implemented an **Embedded C based Medicine Reminder System using LPC2148**, integrating RTC, LCD, keypad interface, and buzzer alert modules.
+
+⚙️ Designed a **menu-driven user interface and reminder logic** to allow users to easily configure medicine schedules and receive timely alerts.
 ---
