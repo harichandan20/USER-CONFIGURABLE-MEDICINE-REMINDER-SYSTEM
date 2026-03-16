@@ -81,7 +81,7 @@ The block diagram shows the interaction between **LPC2148, RTC, keypad, LCD, swi
 
 # 🔌 Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram1.png)
 
 The schematic represents the **complete hardware connections** of the system including LCD, keypad, RTC, switches, and buzzer.
 
